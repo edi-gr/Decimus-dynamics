@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {
+      "source": "/assets/fs-gravity/fs-gravity.otf",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
+    }
+  ]
+}
